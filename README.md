@@ -11,6 +11,7 @@ Understand customer lifetime patterns
 Compare churn across contracts, services, and payment methods
 Provide business insights to improve customer retention strategies
 ## Dataset Description
+https://github.com/Vamshirao07/FUTURE-_DS_02/blob/main/Customer%20retention%20and%20Churn.xlsx
 The dataset includes customer-level information such as:
 Customer ID
 Gender and Senior Citizen status
