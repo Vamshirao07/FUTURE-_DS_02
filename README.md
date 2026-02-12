@@ -28,7 +28,7 @@ Power BI (Dashboard Visualization)
 Data Analysis Techniques
 ## Dashboard Features
 <img width="1635" height="664" alt="customer retention and churn analysis" src="https://github.com/user-attachments/assets/a32ac39d-73c9-4205-8291-fbeec9b1a639" />
-#### KPI Metrics
+## KPI Metrics
 Total Customers
 Churn Rate %
 Retention Rate %
